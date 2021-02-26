@@ -1,0 +1,1 @@
+Folder for saving checkpoint pictures of training outputs, used to monitor training
