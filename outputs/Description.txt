@@ -1,0 +1,1 @@
+The output saved picture files. Make new folders for each generation od data intended to save
