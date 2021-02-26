@@ -1,1 +1,3 @@
 Location of the saved weight files
+
+Later generations have been trained for longer.
