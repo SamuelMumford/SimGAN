@@ -1,3 +1,5 @@
 Most of the files needed to run the CycleGAN code are provided at the main page: https://junyanz.github.io/CycleGAN/
 
-I have included some helper code used to split the file outputs into the generated and base files and weights for the generators and discriminators I have trained.
+I have included some helper code used to split the file outputs and create folders of files.
+
+I cannot update the weights for the generators I have trained because they are larger than the 25MB limit. The discriminators are here.
