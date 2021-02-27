@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan 26 10:11:42 2021
+
+@author: sam
+"""
+
+import splitfolders  # or import split_folders
+import os
+
+path = '/home/sam/Downloads/MaskPicsCat/'
+fol = os.listdir(path)
+print(fol)
+
+splitfolders.ratio(path, output="/home/sam/Downloads/output/", seed=1337, ratio=(.8, 0, .2), group_prefix=None) # default values
