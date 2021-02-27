@@ -6,3 +6,4 @@ The main training file is SimGanTrainCL.py, used to train using terminal command
 
 The Face2MaskTrain/Face2MaskTest folders are where data would be.
 PicCheck is where outputs are intermittently stored during training to look at transformed pictures.
+Cache stores weight files, and outputs stores saved pictures used to calculate FID scores on a trained model.
