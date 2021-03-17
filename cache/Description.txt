@@ -1,3 +1,3 @@
 Location of the saved weight files
 
-Later generations have been trained for longer.
+Later generations have been trained for longer. Note that Gen14 is with a larger discriminator model and thus the discriminator model will not load in the standard programs. It did not perform better than earlier generation models but took longer to train.
